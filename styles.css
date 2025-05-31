@@ -6,8 +6,13 @@
     flex-direction: column;
 }
 
+body {
+    margin: 0px;
+}
+
 .header {
     display: flex;
+    margin: 48px;
 }
 
 ul {
