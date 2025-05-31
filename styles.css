@@ -43,6 +43,7 @@ a {
 .hero {
     padding: 80px;
     display: flex;
+    align-items: center;
 }
 
 .hero .content {
