@@ -22,7 +22,8 @@ body {
     font-weight: 900;
 }
 
-.header a {
+.header a,
+.hero .secondary {
     font-size: 18px;
     color: #E5E7EB;
 }
@@ -48,6 +49,12 @@ a {
     display: flex;
     flex-direction: column;
     gap: 8px;
+}
+
+.hero .main {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
 }
 
 .hero img {
