@@ -74,9 +74,12 @@ a {
 }
 
 .section-2 {
-    padding: 32px;
     display: flex;
     flex-direction: column;
+}
+
+.section-2 .header {
+    padding: 32px;
 }
 
 .section-2 .container {
