@@ -42,3 +42,8 @@ a {
 .hero {
     padding: 80px;
 }
+
+.section-1 img {
+    height: auto;
+    width: 260px;
+}
