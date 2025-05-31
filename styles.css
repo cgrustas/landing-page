@@ -11,8 +11,9 @@ body {
 }
 
 .header {
-    display: flex;
     margin: 16px;
+    display: flex;    
+    justify-content: space-around;
 }
 
 ul {
