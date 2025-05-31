@@ -9,3 +9,9 @@
 .section-1 .header {
     display: flex;
 }
+
+.section-1 .header .link {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
