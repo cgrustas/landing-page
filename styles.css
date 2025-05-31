@@ -41,6 +41,7 @@ a {
 
 .hero {
     padding: 80px;
+    display: flex;
 }
 
 .section-1 img {
