@@ -94,4 +94,6 @@ a {
 .section-2 img {
     height: auto;
     width: 100px;
+    border: 4px solid #3882F6;
+    border-radius: 8px;
 }
