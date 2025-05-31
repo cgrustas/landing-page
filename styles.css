@@ -44,6 +44,12 @@ a {
     display: flex;
 }
 
+.hero .content {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
 .hero img {
     height: auto;
     width: 260px;
