@@ -78,6 +78,10 @@ a {
     flex-direction: column;
 }
 
+.section-2 .container {
+    display: flex;
+}
+
 .section-2 img {
     height: auto;
     width: 200px;
