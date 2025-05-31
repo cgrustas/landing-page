@@ -6,11 +6,11 @@
     flex-direction: column;
 }
 
-.section-1 .header {
+.header {
     display: flex;
 }
 
-.section-1 .header .link {
+ul {
     list-style-type: none;
     margin: 0px;
     padding: 0px;
