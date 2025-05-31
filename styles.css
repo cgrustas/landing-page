@@ -74,12 +74,14 @@ a {
 }
 
 .section-2 {
+    padding: 32px;
     display: flex;
     flex-direction: column;
 }
 
 .section-2 .container {
     display: flex;
+    justify-content: center;
 }
 
 .section-2 img {
