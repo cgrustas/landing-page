@@ -77,3 +77,8 @@ a {
     display: flex;
     flex-direction: column;
 }
+
+.section-2 img {
+    height: auto;
+    width: 200px;
+}
