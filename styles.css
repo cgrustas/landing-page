@@ -1,3 +1,7 @@
+body {
+    margin: 0px;
+}
+
 .section-1 {
     font-family: Roboto;
     background-color: #1F2937;
@@ -6,8 +10,10 @@
     flex-direction: column;
 }
 
-body {
-    margin: 0px;
+.hero .secondary,
+.header a {
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 .header {
