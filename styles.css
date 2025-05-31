@@ -78,8 +78,9 @@ a {
     flex-direction: column;
 }
 
-.section-2 .header {
+.section-2 .info-header {
     padding: 32px;
+
 }
 
 .section-2 .container {
