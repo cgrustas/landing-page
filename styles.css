@@ -6,4 +6,6 @@
     flex-direction: column;
 }
 
-Align header above hero content
+.section-1 .header {
+    display: flex;
+}
