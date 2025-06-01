@@ -14,7 +14,7 @@ body {
     background-color: #1F2937;
     display: flex;
     flex-direction: column;
-    max-width: 100%; 
+    max-width: 100%;
 }
 
 .header {
@@ -60,6 +60,7 @@ a {
     flex-direction: column;
     gap: 8px;
     align-items: flex-start;
+    flex: 1;
 }
 
 .hero .main {
@@ -77,8 +78,9 @@ a {
 }
 
 .hero img {
+    min-width: 0;
     height: auto;
-    width: 260px;
+    flex: 1;
 }
 
 .section-2 {
