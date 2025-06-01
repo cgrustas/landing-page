@@ -169,3 +169,15 @@ a {
     padding: 48px;
 }
 
+.section-4 .content {
+    color: white;
+}
+
+.section-4 .main {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.section-4 .secondary {
+    font-weight: lighter;
+}
