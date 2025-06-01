@@ -166,4 +166,6 @@ a {
     display: flex;
     width: 80%;
     justify-content: space-around;
+    padding: 48px;
 }
+
