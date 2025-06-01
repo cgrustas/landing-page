@@ -173,6 +173,7 @@ a {
     justify-content: space-around;
     padding: 48px;
     align-items: center;
+    border-radius: 8px;
 }
 
 .section-4 .content {
