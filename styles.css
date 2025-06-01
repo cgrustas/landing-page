@@ -151,12 +151,13 @@ a {
 
 .section-4 {
     display: flex;
-    margin: 64px 128px;
+    margin: 64px;
 }
 
 .section-4 .container {
     background-color: #3882F6;
     margin: auto;
     display: flex;
-    justify-content: space-between;
+    width: 80%;
+    justify-content: space-around;
 }
