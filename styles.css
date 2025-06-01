@@ -146,4 +146,5 @@ a {
 .author {
     align-self: flex-end;
     padding-right: 32px;
+    font-weight: bold;
 }
