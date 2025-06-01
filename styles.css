@@ -68,12 +68,17 @@ a {
     font-weight: 900;
 }
 
+.hero button,
+.section-4 button {
+    border: 1px solid;
+    padding: 4px 20px;
+    border-radius: 8px;
+}
+
 .hero button {
+    border-color: #3882F6;
     background-color: #3882F6;
     color: #F9FAF8;
-    padding: 8px 24px;
-    border: 0px;
-    border-radius: 8px;
 }
 
 .hero img {
@@ -167,6 +172,7 @@ a {
     width: 80%;
     justify-content: space-around;
     padding: 48px;
+    align-items: center;
 }
 
 .section-4 .content {
@@ -180,4 +186,10 @@ a {
 
 .section-4 .secondary {
     font-weight: lighter;
+}
+
+.section-4 button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border-color: #F9FAF8;
 }
