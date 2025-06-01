@@ -131,12 +131,18 @@ a {
 
 .section-3 {
     background-color: #E5E7EB;
-    padding: 70px 210px;
+    padding: 70px;
+}
+
+.section-3 .container {
+    margin: auto;
     display: flex;
     flex-direction: column;
+    width: 80%;
 }
 
 .quote {
+    align-self: center;
     font-size: 36px;
     font-weight: lighter;
     font-style: italic;
