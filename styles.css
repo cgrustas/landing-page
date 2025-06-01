@@ -148,3 +148,15 @@ a {
     padding-right: 32px;
     font-weight: bold;
 }
+
+.section-4 {
+    display: flex;
+    margin: 64px 128px;
+}
+
+.section-4 .container {
+    background-color: #3882F6;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
