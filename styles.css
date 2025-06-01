@@ -100,8 +100,14 @@ a {
 }
 
 .media-object img {
+    /* How to ensure images do not exceed container width but still have responsive sizing?
+     * Set max-width: 100%
+     * Set height: auto to maintain aspect ratio
+     * Set flex: 1/auto to allow image to grow/shrink
+      */
     max-width: 100%;
     height: auto;
+    flex: 1;
     border: 4px solid #3882F6;
     border-radius: 8px;
 }
